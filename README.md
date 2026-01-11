@@ -3,6 +3,13 @@
 Android app to manage health appointments, lab tests, medicine orders, and health articles. This app provides an all-in-one health assistant experience for users.
 
 ---
+## **Hospital Use Case**
+
+This app can be used in hospitals or clinics to:  
+- Reduce waiting time for patients.  
+- Avoid overcrowding in reception and waiting areas.  
+- Streamline appointment bookings and lab test scheduling.  
+- Provide patients with real-time updates on orders and appointments.
 
 ## **Features**
 
