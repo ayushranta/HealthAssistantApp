@@ -31,14 +31,14 @@ This app can be used in hospitals or clinics to:
 ### **Dashboard**
 <img width="222" height="497" alt="image" src="https://github.com/user-attachments/assets/76e39d29-daf2-4eb4-b5f9-dbec5bcdcc3b" />
 
-### **Article Section**
-<img width="790" height="497" alt="image" src="https://github.com/user-attachments/assets/9fb902a8-9339-4bf6-b24c-1cda5cef746d" />
+### **Health Article Section**
+<img width="453" height="952" alt="image" src="https://github.com/user-attachments/assets/4950baf6-c99d-4c0a-847b-61605e009ea0" />
 
 ### **Lab Test Booking**
-<img width="1349" height="497" alt="image" src="https://github.com/user-attachments/assets/cd8fcc3e-aee1-4199-9abf-2403fb09ad99" />
+<img width="428" height="945" alt="image" src="https://github.com/user-attachments/assets/223ef39b-fcc7-4050-99da-b0dfd2cfb38f" />
 
-### **Doctor Appointment Booking**
-<img width="1070" height="497" alt="image" src="https://github.com/user-attachments/assets/22e7e14a-ffe0-4bf3-8160-838ec8231c4b" />
+### **Available Doctor Appointment**
+<img width="439" height="943" alt="image" src="https://github.com/user-attachments/assets/38f3c03d-1985-4866-8d55-a664e4fe351d" />
 
 ### **Orders Section**
 <img width="221" height="496" alt="image" src="https://github.com/user-attachments/assets/ba769358-05fc-46a2-9375-8bc3545efde9" />
